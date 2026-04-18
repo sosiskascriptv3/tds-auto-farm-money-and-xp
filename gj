@@ -29,7 +29,7 @@ StyleBtn(V2_Btn, "V2", UDim2.new(0.1, 0, 0.7, 0))
 
 V1_Btn.MouseButton1Click:Connect(function()
     ScreenGui:Destroy()
-    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/sosiskascriptv3/tds-auto-farm-money-and-xp/refs/heads/main/sdssdssdad"))()"))()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/sosiskascriptv3/tds-auto-farm-money-and-xp/refs/heads/main/sdssdssdad"))()
 end)
 
 V2_Btn.MouseButton1Click:Connect(function()
